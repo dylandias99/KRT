@@ -1,0 +1,66 @@
+theaters {
+	margin: 0;
+	padding: 0;
+	background-color: peach;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+
+
+show{
+margin-top:1em;
+padding-left:19.5em;
+font-size: 2em;
+color:darkblue;
+}
+
+Name{
+display:block;
+padding-top:1em;
+font-size:1.5em;
+text-align:center;
+font-size: 1.6em;
+color:#36486b;
+}
+address{
+padding-left:19em;
+}
+address, zipcode{
+color:#034f84;
+display:inline-block;
+font-size:1.5em;
+}
+
+message{
+padding-left:14em;
+color:#034f84;
+display:block;
+font-size:1.5em;
+}
+
+movie{
+padding-top:1em;
+display:block;
+font-size: 1em;
+}
+
+title, rating, duration{
+display:inline-block;
+font-size: 1.4em;
+color:#4040a1;
+}
+
+title{
+padding-left:18em;
+}
+
+
+
+
+timings{
+
+font-size:1.4em;
+padding-left: 1em;
+float:right;
+padding-right:17em;
+color:#4040a1;
+}

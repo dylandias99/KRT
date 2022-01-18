@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT theaters (show,theater+)>
+<!ELEMENT show (#PCDATA)>
+<!ELEMENT theater (Name, address, zipcode, message, movie+)>
+<!ATTLIST theater number CDATA #REQUIRED>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT zipcode (#PCDATA)>
+<!ELEMENT message (#PCDATA)>
+<!ELEMENT movie (title, rating, duration, timings)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT timings (#PCDATA)>
+

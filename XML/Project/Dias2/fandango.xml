@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="fandango.css"?>
+<theaters>
+	<show>FANDANGO</show>
+	<theater number="1">
+		<Name>Movies 10</Name>
+		<address>2613 West Henrietta Road, Rochester, NY</address>
+		<zipcode>14623</zipcode>
+		<message>Text to FNDGO (36346) from your wireless device to get this theater's showtimes.</message>
+		<movie>
+			<title>Ocean's 8</title>
+			<rating>(PG-13)</rating>
+			<duration>1hr 50min</duration>
+			<timings>1:30p | 4:10p </timings>
+		</movie>
+		<movie>
+			<title>Alpha</title>
+			<rating>(PG-13)</rating>
+			<duration>1hr 37min</duration>
+			<timings>12:20p | 2:35p | 4:50p | 7:15p</timings>
+		</movie>
+		<movie>
+			<title>Mile 22</title>
+			<rating>(R)</rating>
+			<duration>1hr 35min</duration>
+			<timings>12:05p | 3:35p | 7:15p </timings>
+		</movie>
+	</theater>
+	<theater number="2">
+		<Name>Pittsford Cinemas</Name>
+		<address>3349 Monroe Ave, Pittsford Plaza, Rochester, NY</address>
+		<zipcode>14618</zipcode>
+		<message>Text to FNDGO (36346) from your wireless device to get this theater's showtimes.</message>
+		<movie>
+			<title>Fahrenheit 11/9</title>
+			<rating>(R)</rating>
+			<duration>2hr 6min</duration>
+			<timings>1:10p | 4:10p | 7:00p</timings>
+		</movie>
+		<movie>
+			<title>Life Itself(2018)</title>
+			<rating>(R)</rating>
+			<duration>1hr 58min</duration>
+			<timings>11:10p | 1:50p | 4:30p | 7:20p</timings>
+		</movie>
+		<movie>
+			<title>The Bookshop</title>
+			<rating>(PG)</rating>
+			<duration>1hr 53min</duration>
+			<timings>1:00p |6:45p</timings>
+		</movie>
+	</theater>
+</theaters>
