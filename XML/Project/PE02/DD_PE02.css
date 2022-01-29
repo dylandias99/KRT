@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+    background-color: #1877F2;
+    color:white;
+    font-family: 'Verlag', sans-serif;
+}
+
+
+@font-face {
+    			font-family: 'Verlag';
+    			font-style: normal;
+    			font-weight: 400;
+   				src: local('Verlag'), url('https://fonts.cdnfonts.com/s/38686/VerlagBold.woff') format('woff');
+			}
+			
+.header{
+	text-align:center;
+}
+		
+.content{
+	display:grid;
+	grid-template-columns:6em 6em 6em;
+	grid-gap:15em;
+	margin:4em 0 0 15em;
+}
+
+.items{
+	display:grid;
+	grid-template-columns:5em 5em;
+	grid-gap:1em;
+	font-weight:20px;
+}

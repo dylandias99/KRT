@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="DD_PE02.xslt"?>
+<Menu>
+<heading> Menu </heading>
+    <item id="1">
+        <name> HamBurger </name>
+        <price> $5.75 </price>
+        <photo>photos/burger.jpg</photo>
+    </item>
+    <item id="2"> 
+        <name> Hot Dog </name>
+        <price> $3.50 </price>
+        <photo>photos/hotdog.jpg</photo>
+    </item>
+    <item id="3">      
+        <name> Cola Drink </name>
+        <price> $2.25 </price>
+        <photo>photos/cola.jpg</photo>
+    </item>
+</Menu>
